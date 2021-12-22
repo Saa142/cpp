@@ -72,3 +72,4 @@ void MainWindow::ButtonClicked(){
         finding_match = false;
     }
 }
+
